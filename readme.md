@@ -2,9 +2,9 @@
 
 ### 🖖 Olá, me Chamo João Lucas, Seja Bem Vindo(a)
 
-#### 🔭 Trilhando nas tecnologias Front-End Web Development !
+#### 🔭 Trilhando e Estudando as tecnologias Front-End Web Development !
 <br>
- 💻 Atualmente Trabalhando na Area de Pricing no Ramo Varejista (Dalben Supermercados) de Campinas, focado em Dados e Estrategia, usando também grandes Tecnologias como SQL para montagem e extração de Dados, Excel para Organizar os dados, e Python para RPA trazendo produtividade em tarefas repetitivas e claro sempre em busca de novos conhecimentos.
+ 💻 Atualmente Trabalhando na Area de Pricing no Ramo Varejista (Dalben Supermercados) de Campinas SP, focado em Dados e Estrategia, usando também grandes Tecnologias como SQL para montagem e extração de Dados, Excel para Organizar os dados, e Python para RPA trazendo produtividade em tarefas repetitivas e claro sempre em busca de novos conhecimentos.
 <br>
 <br>
 <br>
