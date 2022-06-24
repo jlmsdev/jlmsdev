@@ -5,6 +5,14 @@
 #### 🔭 Trilhando e Estudando as tecnologias Front-End Web Development !
 <br>
  💻 Atualmente Trabalhando na Area de Pricing no Ramo Varejista (Dalben Supermercados) de Campinas SP, focado em Dados e Estrategia, usando também grandes Tecnologias como SQL para montagem e extração de Dados, Excel para Organizar os dados, e Python para RPA trazendo produtividade em tarefas repetitivas e claro sempre em busca de novos conhecimentos.
+ <br>
+ <br>
+
+ 💻 Estas são as ferramentas usadas em meu Dia a Dia
+ <br><br>
+ <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+
+
 <br>
 <br>
 <br>
