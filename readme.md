@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-<div style="text-align: center">
+<div align="center">
 
 ### 🖖 Olá, me Chamo João Lucas, Seja Bem Vindo(a)
 
