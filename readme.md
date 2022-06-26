@@ -15,7 +15,6 @@
 
 <br>
 <br>
-<br>
 
 ### 💻 Social 
 <br>
@@ -44,5 +43,16 @@
 
 
 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlmsdev&theme=nightowl&icons=true)](https://github.com/jlmsdev/github-readme-stats)
+
+
+<br>
+
+<p>
+
+![](https://komarev.com/ghpvc/?username=jlmsdev)
+
+</p>
+
+
+
