@@ -1,5 +1,7 @@
 ![Header](./github-header-image.png)
 
+<div style="text-align: center">
+
 ### 🖖 Olá, me Chamo João Lucas, Seja Bem Vindo(a)
 
 #### 🔭 Trilhando e Estudando as tecnologias Front-End Web Development !
@@ -68,3 +70,5 @@ Visitantes ⚙️👩‍💻
 ![](https://komarev.com/ghpvc/?username=jlmsdev&style=for-the-badge&color=blueviolet)
 
 </p>
+
+</div>
