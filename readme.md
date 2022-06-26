@@ -48,11 +48,6 @@
 
 <br>
 
-<p>
-
-![](https://komarev.com/ghpvc/?username=jlmsdev)
-
-</p>
 
 <br>
 
@@ -61,3 +56,15 @@
 <br>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xratg57lhyafwoocr2mks4eqri&cover_image=false&theme=default&bar_color=7a0de7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31xratg57lhyafwoocr2mks4eqri&redirect=true)
+
+
+<br>
+
+
+<p>
+
+Visitantes ⚙️👩‍💻
+
+![](https://komarev.com/ghpvc/?username=jlmsdev&style=for-the-badge&color=blueviolet)
+
+</p>
