@@ -49,22 +49,6 @@
 <br>
 <br>
 
-## 💻 Projetos Pessoais para Treinar Habilidades
-<br>
-
-* <a href="https://jlmsdevpost.netlify.app/" target="_blank">DevPost - Blog, Trabalhando com Cards - HTML e CSS</a>
-
-
-
-
-
-
-
-
-<br>
-<br>
-<br>
-
 
 <div align="center">
 
@@ -82,6 +66,24 @@
 
 <br>
 
+</div>
+
+<br>
+<br>
+
+## 💻 Projetos Pessoais para Treinar Habilidades
+<br>
+
+* <a href="https://jlmsdevpost.netlify.app/" target="_blank">DevPost - Blog, Trabalhando com Cards - HTML e CSS</a>
+
+
+
+
+<br>
+<br>
+<br>
+
+<div align="center">
 
 <p>
 
