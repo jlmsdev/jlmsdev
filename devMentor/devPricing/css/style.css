@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: #D4D4D4;
+}
+
+ul {
+    list-style: none;
+}
+
+.container {
+    max-width: 1200px;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 auto;
+
+}
+
+.container h1 {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 2.5rem;
+    padding: 1rem;
+    color: #000000;
+    margin: 2.5rem 0;
+}
+
+.container-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.nome-plano {
+    color: #000000;
+    font-size: 1.5rem;
+    margin: 1rem ;
+}
+
+.imagem-plano .logo-plano {
+    margin: 2rem 0;
+}
+
+.conteudo-pricing {
+    margin-bottom: 2rem;
+}
+
+.conteudo-pricing .pricing {
+    color: #040521;
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+.conteudo-plano {
+    margin-bottom: 3rem;
+}
+
+.conteudo-plano .info-produto {
+    margin: .4rem 0;
+    color: #3C3C3C;
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+.cards {
+    padding: 1rem;
+    margin: 1rem;
+    width: 320px;
+    border-radius: 14px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #FEFEFE;
+    box-shadow: 4px 4px 7.68266px rgba(0, 0, 0, 0.1);
+    transition: all .5s;
+}
+
+.cards:hover {
+    transform: scale(1.1);
+    transition: all .5s;
+}
+
+.conteudo-plano {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.cards button {
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 45px;
+    border-radius: 90px;
+    background-color: #23C281;
+    border: 0;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all .5s;
+    margin-bottom: 1rem;
+}
+
+.cards button:hover {
+    background-color: #09ca7a;
+    transform: scale(1.1);
+}
