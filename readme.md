@@ -76,6 +76,8 @@
 
 * <a href="https://jlmsdevpost.netlify.app/" target="_blank">DevPost - Blog, Trabalhando com Cards - HTML e CSS</a>
 
+* <a href="https://jlmspricing.netlify.app/" target="_blank">Tabela de Preços, Trabalhando com Cards - HTML e CSS</a>
+
 
 
 
