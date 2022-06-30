@@ -1,0 +1,126 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    font-family: Roboto, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background-color: #FFFFFF;
+}
+
+ul {
+    list-style: none;
+}
+
+.container-header {
+    max-width: 1200px;
+
+    display: flex;
+    align-items: center;
+
+    margin: 3rem auto;
+}
+
+.menu-conteudo {
+    width: 10rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 3rem;
+}
+
+.menu-conteudo li a {
+    color: #1D2730;
+    font-size: 1.2rem;
+    font-weight: 400;
+    user-select: none;
+}
+
+.container-info {
+    max-width: 1200px;
+    height: 75vh;
+    margin: 1rem auto;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 3rem 0;
+}
+
+
+
+.info-texto h1 {
+    color: #1D2730;
+    font-size: 3rem;
+    line-height: 4.5rem;
+    margin-bottom: 1rem;
+}
+
+.info-texto p {
+    color: #1D2730;
+    font-size: 1.2rem;
+    line-height: 1.8rem;
+    margin-bottom: 2.5rem;
+}
+
+.info-texto button {
+    background-color: #07C9C9;
+    color: #FFFFFF;
+    width: 280px;
+    height: 45px;
+    border: 0;
+    border-radius: 4px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    font-weight: 700;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all .5s;
+}
+
+.info-texto button:hover {
+    transform: scale(1.2);
+    transition: all .5s;
+}
+
+.container-url {
+    width: 50vw;
+    background-color: #07C9C9;
+    height: 130px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 8px;
+    margin: -60px auto;
+
+}
+
+.container-url input {
+    width: 70%;
+    height: 45px;
+    background-color: #FFFFFF;
+    border: 0;
+    border-radius: 4px;
+    padding: 1rem;
+    font-size: 1rem;
+    outline: none;
+}
+
+.container-url button {
+    width: 20%;
+    background-color: #1D2730;
+    border-radius: 4px;
+    height: 45px;
+    color: #FFFFFF;
+    font-size: 1rem;
+    font-weight: 700;
+    cursor: pointer;
+}
