@@ -78,7 +78,7 @@
 
 * <a href="https://jlmspricing.netlify.app/" target="_blank">Tabela de Preços, Trabalhando com Cards - HTML e CSS</a>
 
-* <a href="https://jlmspricing.netlify.app/" target="_blank">Projeto Landing Page, Encurta Links Trabalhando com HTML e CSS</a>
+* <a href="https://jlms-encurta.netlify.app/" target="_blank">Projeto Landing Page, Encurta Links Trabalhando com HTML e CSS</a>
 
 
 
