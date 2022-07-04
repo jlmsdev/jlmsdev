@@ -310,7 +310,7 @@ ul {
     }
 
     .info-texto p {
-        font-size: 1rem;
+        font-size: 1.2rem;
         padding: 0 2rem;
         text-align: center;
     }
@@ -339,6 +339,12 @@ ul {
         text-align: center;
     }
 
+    .container-texto p {
+        font-size: 1.2rem;
+        text-align: center;
+        line-height: 24px;
+    }
+
     .container-start {
         margin: auto;
         padding-top: 3rem;
@@ -351,6 +357,7 @@ ul {
 
     .container-start p {
         text-align: center;
+        font-size: 1.2rem;
     }
 
 
@@ -359,8 +366,21 @@ ul {
         width: 90%;
     }
 
-    .container-info .info-content img {
-        display: none;
+    .info-content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .container-info img {
+        width: 100%;
+        margin-top: 2rem;
+    }
+
+    .container-info .info-imagem {
+        width: 80%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 
 
