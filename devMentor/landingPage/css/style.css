@@ -19,12 +19,21 @@ ul {
 }
 
 .container-header {
-    max-width: 1200px;
+    width: 100%;
 
     display: flex;
     align-items: center;
+    padding: 0 1rem;
+}
 
-    margin: 3rem auto;
+.header-content {
+    width: 100%;
+    max-width: 1200px;
+
+
+    display: flex;
+    align-items: center;
+    margin: 1rem auto;
 }
 
 .menu-conteudo {
@@ -43,14 +52,23 @@ ul {
 }
 
 .container-info {
-    max-width: 1200px;
+    width: 100%;
     height: 75vh;
-    margin: 1rem auto;
+    margin: auto;
 
     display: flex;
     align-items: center;
     justify-content: center;
     padding: 3rem 0;
+}
+
+.info-content {
+    width: 100%;
+    max-width: 1200px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 
@@ -100,6 +118,8 @@ ul {
     justify-content: space-evenly;
     border-radius: 8px;
     margin: -60px auto;
+    position: relative;
+    
 
 }
 
@@ -124,3 +144,246 @@ ul {
     font-weight: 700;
     cursor: pointer;
 }
+
+.container-plano {
+    background-color: #F0F1F6;
+    width: 100%;
+    padding-bottom: 7rem;
+}
+
+.content-plano {
+    width: 100%;
+    max-width: 1200px;
+
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+
+    margin: 0 auto;
+}
+
+.content-plano h1 {
+    width: 500px;
+    text-align: center;
+    margin: 10rem  auto 5rem;
+    color: #000000;
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+.container-cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.container-cards .card {
+
+    width: 400px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.container-texto h2 {
+    font-weight: 700;
+    font-size: 1.5rem;
+    margin: 2rem 0;
+}
+
+.container-texto p {
+    margin: 1rem 0;
+    width: 350px;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.container-start {
+    width: 100%;
+    margin: 10rem auto;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.comece-agora {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 10rem;
+}
+
+.comece-agora h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    font-weight: 700;
+}
+
+.comece-agora p {
+    font-size: 1rem;
+    font-weight: 400;
+    margin-bottom: 2rem;
+}
+
+.comece-agora button {
+    border: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 250px;
+    height: 45px;
+    font-size: 1.2rem;
+    color: #FFFFFF;
+    background-color: #07C9C9;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.container-perguntas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container-perguntas h2 {
+    font-size: 2.5rem;
+}
+
+.content-perguntas {
+    margin-top: 2rem ;
+}
+
+.content-perguntas details {
+    width: 650px;
+    height: 45px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 3rem;
+}
+
+.content-perguntas details summary {
+    padding: 0 1rem;
+    height: 45px;
+    line-height: 45px;
+    background-color: #E5E5E5;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+    user-select: none;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 1.2rem;
+}
+
+.social {
+    display: flex;
+    justify-content: center;
+    padding: 2rem 0;
+}
+
+.social a {
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: #07C9C9;
+}
+
+
+@media (min-width: 320px ) and (max-width: 1263px ) {
+    
+    .container-header {
+        margin: 0 auto;
+    }
+
+    .info-texto h1 {
+        font-size: 2rem;
+        line-height: 2.2rem;
+        text-align: center
+        ;
+    }
+
+    .info-texto p {
+        font-size: 1rem;
+        padding: 0 2rem;
+        text-align: center;
+    }
+
+    .info-texto button {
+        margin: auto;
+    }
+
+    .container-url {
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .container-url input,
+    .container-url button {
+        width: 70%;
+        border: 0;
+    }
+
+    .container-plano h1 {
+        font-size: 1.5rem;
+    }
+
+    .container-texto h2 {
+        text-align: center;
+    }
+
+    .container-start {
+        margin: auto;
+        padding-top: 3rem;
+    }
+
+    .container-start h2 {
+        font-size: 1.5rem;
+        text-align: center;
+    }
+
+    .container-start p {
+        text-align: center;
+    }
+
+
+
+    .header-content img {
+        width: 90%;
+    }
+
+    .container-info .info-content img {
+        display: none;
+    }
+
+
+   .content-perguntas {
+        width: 100%;
+        margin: 0 auto;
+   }
+
+   .content-perguntas details,
+   .content-perguntas summary {
+        width: 100%;
+        height: auto;
+    }
+
+
+    
+
+    .container-perguntas h2 {
+        margin-bottom: 2rem;
+    }
+
+    .content-plano h1 {
+        width: 100%;
+    }
+}
+
