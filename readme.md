@@ -78,9 +78,11 @@
 
 * <a href="https://jlmspricing.netlify.app/" target="_blank">Tabela de Preços, Trabalhando com Cards - HTML e CSS</a>
 
-* <a href="https://jlms-encurta.netlify.app/" target="_blank">Projeto Landing Page, Encurta Links Trabalhando com HTML e CSS</a>
+* <a href="https://jlms-encurta.netlify.app/" target="_blank">Projeto Landing Page, Encurta Links Trabalhando com HTML e CSS e Aprendendo sobre Responsividade</a>
 
-* <a href="https://jlms-contador.netlify.app/" target="_blank">Projeto Landing Page, Com Data e Hora Trabalhando com HTML, CSS e JAVASCRIPT</a>
+* <a href="https://jlms-contador.netlify.app/" target="_blank">Projeto Landing Page, Com Data e Hora Trabalhando com HTML, CSS e JAVASCRIPT e Aprendendo Responsividade</a>
+
+* <a href="https://jlmsdevtech.netlify.app/" target="_blank">Projeto Landing Page, DevTech Trabalhando com HTML, CSS e JAVASCRIPT e Aprendendo Responsividade</a>
 
 
 
