@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DevTech</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+
+
+    <script src="https://kit.fontawesome.com/0c2f67f0e0.js" crossorigin="anonymous"></script>
+    <script src="./js/form.js" defer></script>
+
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+
+    <link rel="stylesheet" href="./css/style.css">
+
+
+</head>
+<body>
+
+    <header class="container-menu">
+
+        <div class="conteudo-menu">
+
+            <div class="logo-empresa">
+                <a href="">
+                    <img src="./assets/logo.png" alt="Logo Empresa">
+                </a>
+                
+            </div>
+            <nav class="menu">
+    
+                <ul>
+                    <li class="menu-item fino">
+                        <a href="#">Home</a>
+                    </li>
+                    <li class="menu-item">
+                        <a href="#">Sobre</a>
+                    </li>
+                    <li class="menu-item">
+                        <a href="#">Serviços</a>
+                    </li>
+                    <li class="menu-item">
+                        <a href="#">Contatos</a>
+                    </li>
+                </ul>
+    
+            </nav>
+
+        </div>
+
+    </header>
+
+    <main class="container-principal">
+
+        <div class="conteudo-principal">
+
+            <div class="info-empresa">
+                <h1>Sua empresa merece reconhecimento e visibilidade!</h1>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.
+                </p>
+
+                <button>Solicitar Orçamento</button>
+            </div>
+
+            <div class="imagem-empresa">
+                <img src="./assets/empresa.png" alt="Imagem Empresa">
+            </div>
+
+        </div>
+
+    </main>
+
+    <section class="container-pessoas">
+
+        <div class="pessoas">
+
+            <div class="info-plano">
+                <h3> <i class="fa-solid fa-user"></i> 2 Mil</h3>
+                <p>Usuários Online</p>
+            </div>
+
+            <div class="info-plano">
+                <h3> <i class="fa-brands fa-windows"></i> 15 Mil</h3>
+                <p>Já Usaram Nosso Sistema</p>
+            </div>
+
+            <div class="info-plano">
+                <h3> <i class="fa-solid fa-person-chalkboard"></i> 700+</h3>
+                <p>Desafios Online</p>
+            </div>
+
+        </div>
+
+    </section>
+
+    <section class="container-info-empresa">
+
+        <div class="info-empresa-texto">
+
+            <div class="texto-empresa">
+                <h1>Levamos a sua empresa a outro nível.</h1>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugiat ex quae rerum, doloremque perspiciatis suscipit eos molestiae</p>
+
+                <button>Fazer Orçamento</button>
+            </div>
+
+            <div class="container-card">
+
+                <div class="card">
+                    <span class="icone-card"><i class="fa-solid fa-arrow-trend-up fa-2x"></i></span>
+                    <h3>Fazemos toda gestao de marketing.</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum.</p>
+                </div>
+
+                <div class="card diferente">
+                    <span class="icone-card dif-icon"><i class="fa-solid fa-suitcase fa-2x"></i></span>
+                    <h3 class="font-dif">Gerenciamos todo trafego pago.</h3>
+                    <p class="parag-dif">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum.</p>
+                </div>
+
+            </div>
+            
+
+        </div>
+
+
+    </section>
+
+    <section class="container-sobre">
+        <div class="sobre">
+            <h3>Sobre</h3>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae hic sit deserunt esse fugit dolorum quia recusandae magni sequi magnam ullam, perspiciatis, reiciendis nulla similique! Sequi magni officia minus illum!
+            
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae error, consectetur soluta incidunt libero eaque fuga sint exercitationem optio animi veniam et nulla accusantium, hic asperiores cum natus nisi. Doloribus.    
+
+            </p>
+        </div>
+    </section>
+
+    <section class="container-feedback">
+
+        <div class="feedback-texto">
+            <h2>Vamos fazer um Orçamento?</h2>
+            <h3>Fique tranquilo, nosso orçamento é gratuito e sem nenhum compromisso.</h3>
+        </div>
+        
+
+        <form onsubmit="return false" class="formulario">
+            <input type="text" placeholder="Digite seu Nome">
+            <input id="email" type="email" placeholder="Digite seu E-mail" required>
+            <input type="tel" placeholder="Telefone (DDD) 99999-9999">
+
+            <button type="submit" onclick="submitForm()">
+                Solicitar Orçamento
+            </button>
+        </form>
+
+
+    </section>
+
+    <footer class="container-rodape">
+        <div class="text-rodape">
+            <span>
+                <a href="https://www.linkedin.com/in/jlucasmelo/" target="_blank">💻 João Lucas Melo</a>
+            </span>
+        </div>
+    </footer>
+
+</body>
+</html>
