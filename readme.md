@@ -84,8 +84,6 @@
 
 * <a href="https://jlmsdevtech.netlify.app/" target="_blank">Projeto Landing Page, DevTech Trabalhando com HTML, CSS e JAVASCRIPT e Aprendendo Responsividade</a>
 
-* <a href="https://jlmsdevtech.netlify.app/" target="_blank">Projeto Landing Page, DevTech Trabalhando com HTML, CSS e JAVASCRIPT e Aprendendo Responsividade</a>
-
 * <a href="https://jlms-login.netlify.app/" target="_blank">Projeto Pagina de Login, utilizando formularios</a>
 
 
