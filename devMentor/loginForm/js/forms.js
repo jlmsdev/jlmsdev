@@ -1,4 +1,4 @@
-let email = document.getElementById('email');
+let email = document.getElementById('mail');
 let pwd = document.getElementById('senha');
 
 
