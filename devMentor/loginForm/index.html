@@ -13,6 +13,11 @@
     <!--Scripts-->
     <script src="./js/forms.js" defer></script>
 
+    <!--Notificações Personalizadas Toastfy-->
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+
 
 
 </head>
@@ -22,17 +27,17 @@
 
         <div class="login-tradicional">
             <span>Login</span>
-            <input type="email" placeholder="Digite seu E-mail" required>
-            <input type="password" placeholder="**********" required>
-            <button type="submit">
+            <input type="email" placeholder="Digite seu E-mail" id="email">
+            <input type="password" placeholder="**********" id="senha">
+            <button type="submit" onclick="validaInput()">
                 Acessar
             </button>
         </div>
 
         <div class="login-social">
             <span>Ou entre com sua rede social</span>
-            <input type="button" value="Entrar com Twitter" class="btn-twitter">
-            <input type="button" value="Entrar com Facebook" class="btn-facebook">
+            <input type="button" value="Entrar com Twitter" class="btn-twitter" onclick="twitter()">
+            <input type="button" value="Entrar com Facebook" class="btn-facebook" onclick="facebook()">
         </div>
 
     </form>
