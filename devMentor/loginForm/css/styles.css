@@ -132,3 +132,19 @@ body {
     flex-direction: column;
     justify-content: center;
 }
+
+.container-rodape {
+    position: absolute;
+    bottom: 0%;
+    padding: 1rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-rodape span a {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-weight: 700;
+}

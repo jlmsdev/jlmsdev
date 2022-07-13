@@ -2,9 +2,6 @@ let email = document.getElementById('email');
 let pwd = document.getElementById('senha');
 
 
-function urlLogado() {
-    window.location.href = "./logado.html";
-}
 
 function twitter() {
     window.location.href = 'https://twitter.com/';
@@ -19,10 +16,10 @@ function facebook() {
 function validaInput() {
     
 
-    if (email.value.length === 0) {
-        
+    if (email.value.length === 0 || pwd.value.length === 0) {
+
         Toastify({
-            text: "Por Favor, Preencha o Campo E-mail",
+            text: "Campos E-mail ou Senha em brancos, Por Favor Preencha.",
             duration: 3000,
             newWindow: true,
             close: true,
@@ -35,24 +32,6 @@ function validaInput() {
             onClick: function(){} 
           }).showToast();
 
-          return false;
-
-
-    } else if (pwd.value.length === 0) {
-        
-        Toastify({
-            text: "Por Favor, Preencha o Campo Senha",
-            duration: 3000,
-            newWindow: true,
-            close: true,
-            gravity: "top",
-            position: "center", 
-            stopOnFocus: true,
-            style: {
-              background: "linear-gradient(to right, #000000, #cecece)", 
-            },
-            onClick: function(){} 
-          }).showToast();
           return false;
 
     } else {
@@ -71,8 +50,9 @@ function validaInput() {
             onClick: function(){} 
           }).showToast();
 
-
-          setTimeout(urlLogado, 3000);
+          setTimeout(function userLogado() {
+            window.location.href = "./logado.html"
+          }, 3000);
           
     }
         
