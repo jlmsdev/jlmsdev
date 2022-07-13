@@ -76,7 +76,7 @@
 
 * <a href="https://github.com/jlmsdev/jlmsdev/tree/main/devMentor/devPosts" target="_blank">DevPost - Blog, Trabalhando com Cards e Responsividade - HTML e CSS - LINK DO PROJETO</a>
 
-* <a href="https://jlmspricing.netlify.app/" target="_blank">Tabela de Preços, Trabalhando com Cards - HTML e CSS</a>
+* <a href="https://github.com/jlmsdev/jlmsdev/tree/main/devMentor/devPricing" target="_blank">Tabela de Preços, Trabalhando com Cards - HTML e CSS - LINK DO PROJETO</a>
 
 * <a href="https://jlms-encurta.netlify.app/" target="_blank">Projeto Landing Page, Encurta Links Trabalhando com HTML e CSS e Aprendendo sobre Responsividade</a>
 
