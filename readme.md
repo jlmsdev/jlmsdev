@@ -86,7 +86,7 @@
 
 * <a href="https://jlms-login.netlify.app/" target="_blank">Projeto Pagina de Login, utilizando formularios com HTML e CSS</a>
 
-* <a href="https://jlms-login.netlify.app/" target="_blank">Projeto Pagina de Duvidas - Componente, utilizando HTML e CSS e responsividade - LINK DO PROJETO</a>
+* <a href="https://github.com/jlmsdev/jlmsdev/tree/main/devMentor/componenteDuvidasFrequentes" target="_blank">Projeto Pagina de Duvidas - Componente, utilizando HTML e CSS e responsividade - LINK DO PROJETO</a>
 
 
 
