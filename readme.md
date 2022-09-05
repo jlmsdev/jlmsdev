@@ -71,22 +71,13 @@
 <br>
 <br>
 
-## 💻 Projetos Pessoais para Treinar Habilidades ( Front End )
+## 💻 Repositório das Minhas Artes 😅
 <br>
 
-* <a href="https://github.com/jlmsdev/jlmsdev/tree/main/devMentor/devPosts" target="_blank">DevPost - Blog, Trabalhando com Cards e Responsividade - HTML e CSS - LINK DO PROJETO</a>
+* <a href="https://github.com/jlmsdev?tab=repositories" target="_blank">
+    Repositório JLMSDEV 💻✌️👩‍💻
+</a>
 
-* <a href="https://github.com/jlmsdev/jlmsdev/tree/main/devMentor/devPricing" target="_blank">Tabela de Preços, Trabalhando com Cards - HTML e CSS - LINK DO PROJETO</a>
-
-* <a href="https://jlms-encurta.netlify.app/" target="_blank">Projeto Landing Page, Encurta Links Trabalhando com HTML e CSS e Aprendendo sobre Responsividade</a>
-
-* <a href="https://jlms-contador.netlify.app/" target="_blank">Projeto Landing Page, Com Data e Hora Trabalhando com HTML, CSS e JAVASCRIPT e Aprendendo Responsividade</a>
-
-* <a href="https://jlmsdevtech.netlify.app/" target="_blank">Projeto Landing Page, DevTech Trabalhando com HTML, CSS e JAVASCRIPT e Aprendendo Responsividade</a>
-
-* <a href="https://jlms-login.netlify.app/" target="_blank">Projeto Pagina de Login, utilizando formularios com HTML e CSS</a>
-
-* <a href="https://github.com/jlmsdev/jlmsdev/tree/main/devMentor/componenteDuvidasFrequentes" target="_blank">Projeto Pagina de Duvidas - Componente, utilizando HTML e CSS e responsividade - LINK DO PROJETO</a>
 
 
 
