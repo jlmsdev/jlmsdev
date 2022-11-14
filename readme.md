@@ -58,11 +58,6 @@
 <br>
 <br>
 
-### Spotify Bar 🎛️🎵🎶👌
-<br>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xratg57lhyafwoocr2mks4eqri&cover_image=false&theme=default&bar_color=7a0de7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31xratg57lhyafwoocr2mks4eqri&redirect=true)
-
 
 <br>
 
