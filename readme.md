@@ -60,10 +60,16 @@
 
 
 <br>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlmsdev&layout=compact)](https://github.com/jlmsdev/github-readme-stats)
 
 </div>
 
 <br>
+
+
+
+
 <br>
 
 ## 💻 Repositório das Minhas Artes 😅
