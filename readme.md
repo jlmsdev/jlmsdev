@@ -1,101 +1,21 @@
-![Header](./github-header-image.png)
-
-<div align="center">
-
-### 🖖 Olá, me Chamo João Lucas, Seja Bem Vindo(a)
-
-#### 🔭 Trilhando e Estudando as tecnologias Front-End Web Development !
-<br>
- 💻 Atualmente Trabalhando na Area de Pricing no Ramo Varejista (Dalben Supermercados) de Campinas SP, focado em Dados e Estrategia, usando também grandes Tecnologias como SQL para montagem e extração de Dados, Excel para Organizar os dados, e Python para RPA trazendo produtividade em tarefas repetitivas e claro sempre em busca de novos conhecimentos.
- <br>
- <br>
-
- 💻 Estas são as ferramentas usadas em meu Dia a Dia
- <br><br>
- <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+# 💫 Sobre Mim:
+🔭 Trabalhando atualmente como Analista de Pricing/Dados + SQL na Empresa Dalben Supermercados, Campinas SP<br>🌱 Atualmente Estudando e Focado nas Tecnlogias Frontend, HTML, CSS, Javascript + ReactJs<br>💬 Me Chamo João Lucas, Tenho 28 Anos, Apaixonado pela Area Tech<br>⚡ Sou Muito Curioso gosto de entender como as coisas funcionam, e muita vontade em aprender
 
 
-<br>
-<br>
+## 🌐 Social:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jlms.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jlucasmelo) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20868337) 
 
-### 💻 Social 
-<br>
+# 💻 Tecnologias:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+# 📊 GitHub Status:
+![](https://github-readme-stats.vercel.app/api?username=jlmsdev&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jlmsdev&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jlmsdev&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<a href="https://www.linkedin.com/in/jlucasmelo/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://www.instagram.com/jlms.dev/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href="https://github.com/jlmsdev">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</a>
+## 🏆 GitHub Trofeus
+![](https://github-profile-trophy.vercel.app/?username=jlmsdev&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
 
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=jlmsdev&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<br>
-<br>
-
-<div align="center">
-
-### 💻 Tecnologias e  Ferramentas 🛠️
-<br>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-
-</div>
-
-<br>
-<br>
-<br>
-
-
-<div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlmsdev&theme=nightowl&icons=true)](https://github.com/jlmsdev/github-readme-stats)
-
-<br>
-<br>
-<br>
-
-
-<br>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlmsdev&layout=compact)](https://github.com/jlmsdev/github-readme-stats)
-
-</div>
-
-<br>
-
-
-
-
-<br>
-
-## 💻 Repositório das Minhas Artes 😅
-<br>
-
-* <a href="https://github.com/jlmsdev?tab=repositories" target="_blank">
-    Repositório JLMSDEV 💻✌️👩‍💻
-</a>
-
-
-
-
-
-
-<br>
-<br>
-<br>
-
-<div align="center">
-
-<p>
-
-Visitantes ⚙️👩‍💻
-
-![](https://komarev.com/ghpvc/?username=jlmsdev&style=for-the-badge&color=blueviolet)
-
-</p>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
