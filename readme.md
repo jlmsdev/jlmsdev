@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-🔭 Trabalhando atualmente como Analista de Pricing/Dados + SQL na Empresa Dalben Supermercados, Campinas SP<br>🌱 Atualmente Estudando e Focado nas Tecnlogias Frontend, HTML, CSS, Javascript + ReactJs<br>💬 Me Chamo João Lucas, Tenho 28 Anos, Apaixonado pela Area Tech<br>⚡ Sou Muito Curioso gosto de entender como as coisas funcionam, e muita vontade em aprender
+🔭 Trabalhando atualmente como Analista de Pricing/Dados + SQL em, Campinas SP<br>🌱 Atualmente Estudando e Focado nas Tecnlogias Frontend, HTML, CSS, Javascript + ReactJs<br>💬 Me Chamo João Lucas, Tenho 28 Anos, Apaixonado pela Area Tech<br>⚡ Sou Muito Curioso gosto de entender como as coisas funcionam, e muita vontade em aprender
 
 
 ## 🌐 Social:
